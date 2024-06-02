@@ -67,9 +67,9 @@ For additional info, contact Joseph Ngige at [elngige@gmail.com](mailto:elngige@
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── phase1-project-.ipynb               <- Narrative documentation of analysis in Jupyter notebook
-├── Presentation.pdf                    <- PDF version of project presentation
-├── data                                <- Sourced externally
-└── images                              <- Sourced externally and generated from code
+├── README.md                                                 <- The top-level README for reviewers of this project
+├── movie_studio_analysis.ipynb                               <- Narrative documentation of analysis in Jupyter notebook
+├── movie_studio_analysis_presentation.pdf                    <- PDF version of project presentation
+├── data                                                      <- Sourced externally
+└── images                                                    <- Sourced externally and generated from code
 ```
