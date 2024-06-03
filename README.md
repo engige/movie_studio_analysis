@@ -45,7 +45,7 @@ This analysis leads to the following recommendations for Microsoft's Movie Studi
 
 2. **Leverage International Markets**: Allocate significant marketing and distribution resources to international markets, particularly for family-friendly, animated comedies and action-adventure genres that have shown strong foreign gross performance.
 
-3. **Diverse Genre Combinations**: Encourage the development of hybrid genres that combine elements of action, adventure, comedy, and fantasy to maximize audience appeal.
+3. **Diverse Genre Combinations**: Develop hybrid genres that combine elements of action, adventure, comedy, and fantasy to maximize audience appeal.
 
 ### Next Steps:
 
