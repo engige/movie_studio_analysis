@@ -64,8 +64,6 @@ For additional info, contact Joseph Ngige at [elngige@gmail.com](mailto:elngige@
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
-
 ```
 ├── README.md                                                 <- The top-level README for reviewers of this project
 ├── movie_studio_analysis.ipynb                               <- Narrative documentation of analysis in Jupyter notebook
